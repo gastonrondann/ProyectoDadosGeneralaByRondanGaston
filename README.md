@@ -5,5 +5,7 @@ Implementación de lógica de puntajes, turnos, menús interactivos y modos de j
 Uso de herramientas como rlutil para manejo de pantalla y mejora visual en consola.
 Proyecto estructurado profesionalmente con buen manejo de funciones, headers y organización general del código.
 
-
-![Demostración del juego](assets/Generala%20by%20Rondan%20Gaston.gif)
+<p align="center">
+  <b>Demostración del Juego</b><br>
+  <img src="assets/demo.gif" width="600">
+</p>
