@@ -6,4 +6,4 @@ Uso de herramientas como rlutil para manejo de pantalla y mejora visual en conso
 Proyecto estructurado profesionalmente con buen manejo de funciones, headers y organización general del código.
 
 
-![Demostración del juego](assets/GeneralaByRondanGaston.gif)
+![Demostración del juego](./assets/GeneralaByRondanGaston.gif)
