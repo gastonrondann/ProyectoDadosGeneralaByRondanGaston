@@ -1,0 +1,224 @@
+# depslib dependency file v1.0
+1763672063 source:c:\users\gaston\desktop\tpi(gaston1)\tpi-gaston\main.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+	<ctime>
+
+1763845232 source:c:\users\gaston\desktop\tpi(gaston1)\tpi-gaston\pantalla.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
+1763038800 c:\users\gaston\desktop\tpi(gaston1)\tpi-gaston\pantalla.h
+	<string>
+
+1571584339 c:\users\gaston\desktop\tpi(gaston1)\tpi-gaston\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764137659 source:c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\nueva carpeta\main.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+	<ctime>
+
+1764137867 c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\nueva carpeta\pantalla.h
+	<string>
+
+1571584339 c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\nueva carpeta\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764129286 source:c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\nueva carpeta\pantalla.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
+1764134880 source:c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\nueva carpeta\menu.cpp
+	<iostream>
+
+1764137659 source:c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\siguiente version\main.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+	<ctime>
+
+1764137867 c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\siguiente version\pantalla.h
+	<string>
+
+1571584339 c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\siguiente version\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764137948 source:c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\siguiente version\pantalla.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
+1764137659 source:c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\version gaston\main.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+	<ctime>
+
+1764137867 c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\version gaston\pantalla.h
+	<string>
+
+1571584339 c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\version gaston\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764137948 source:c:\users\lucas\onedrive\escritorio\tup\programación\tpi final prog 1 tercera vez\version gaston\pantalla.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
+1764253995 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\main.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+	<ctime>
+	<limits>
+
+1764208040 c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\pantalla.h
+	<string>
+
+1571584339 c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764255826 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\pantalla.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
+1764207745 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\jugarunjugador.cpp
+
+1764207059 c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\jugarunjugador.h
+	<string>
+
+1764207510 c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\dosjugadores.h
+	<string>
+
+1764256432 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\dosjugadores.cpp
+	<iostream>
+	"pantalla.h"
+
+1764255983 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\unjugador.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
+1764255823 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\actualizarpuntaje.cpp
+	<iostream>
+	"pantalla.h"
+
+1764255751 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\dados.cpp
+	<iostream>
+	"pantalla.h"
+
+1764255879 source:c:\users\gaston\desktop\tpi-lucas-v2\tpi lucas version 2\puntaje.cpp
+	<iostream>
+	"pantalla.h"
+
+1764255823 source:c:\users\gaston\desktop\tpi version 3\actualizarpuntaje.cpp
+	<iostream>
+	"pantalla.h"
+
+1764335292 c:\users\gaston\desktop\tpi version 3\pantalla.h
+	<string>
+
+1764255751 source:c:\users\gaston\desktop\tpi version 3\dados.cpp
+	<iostream>
+	"pantalla.h"
+
+1764339682 source:c:\users\gaston\desktop\tpi version 3\dosjugadores.cpp
+	<iostream>
+	"pantalla.h"
+
+1764339548 source:c:\users\gaston\desktop\tpi version 3\main.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+	<ctime>
+	<limits>
+
+1571584339 c:\users\gaston\desktop\tpi version 3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1764255826 source:c:\users\gaston\desktop\tpi version 3\pantalla.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
+1764255879 source:c:\users\gaston\desktop\tpi version 3\puntaje.cpp
+	<iostream>
+	"pantalla.h"
+
+1764336055 source:c:\users\gaston\desktop\tpi version 3\unjugador.cpp
+	<iostream>
+	"pantalla.h"
+	"rlutil.h"
+
