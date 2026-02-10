@@ -22,10 +22,6 @@ Este proyecto consiste en un **juego de dados desarrollado en C++**, diseñado p
 - 📁 Estructura modular real con funciones bien distribuidas.  
 - 🎮 Flujo completo del juego con menú, turnos y cálculos.  
 - 🖥️ Visual atractivo dentro de consola gracias a *rlutil*.  
-- 🧼 Código prolijo, ordenado y fácil de entender.  
-- 🚀 Ideal como proyecto de portfolio para demostrar conocimientos en C++.
-
-
 <p align="center">
   <b>Demostración del Juego</b><br>
   <img src="assets/demo.gif" width="600">
